@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Welcome to my slice of the net!</title><link>https://paladin-labs.org//index.html</link>
+<description>My personal blog</description><language>en</language>
+<lastBuildDate>Mon, 15 Jun 2026 23:47:35 -0400</lastBuildDate>
+<pubDate>Mon, 15 Jun 2026 23:47:35 -0400</pubDate>
+<atom:link href="https://paladin-labs.org//feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Title on this line
+</title><description><![CDATA[
+
+<p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
+as you exit your editor.</p>
+
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+<!-- text end -->
+]]></description><link>https://paladin-labs.org//title-on-this-line.html</link>
+<guid>https://paladin-labs.org//./title-on-this-line.html</guid>
+<dc:creator>John Smith</dc:creator>
+<pubDate>Mon, 15 Jun 2026 23:47:26 -0400</pubDate></item>
+</channel></rss>
